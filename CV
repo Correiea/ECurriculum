@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html lang="pt-pt">
+
+	<head>
+		<meta charset="utf-8">
+		<title> PIRILUZ </title>
+			
+		<!-- ESTILOS -->
+		<link rel="stylesheet" href="Assets/css/estilos.css">	
+		<!-- CSS BOOTSTRAP -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+		<!-- jQuery library -->		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<!-- Popper JS -->	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+		<!-- Latest compiled JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	</head>
+	
+	<body> 
+		
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-12 jumbotron text-center">
+					<h1 style='border:2px solid violet; color:pink'> *ECurriculum Vitae* </h1>
+					<p style='font-family:Courier; color:purple'> "Podem haver muitos olhares, mas apenas o teu tem um brilho especial!"  </p>
+					<img src="Assets/Piriluz_cv.jpg" width='400' height='500'; alt='Foto by Piriluz*2019'>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row dados-pessoais">
+				<div class="col-md-12">
+					<h1 style='font-family:Courier; color:purple'> Dados Pessoais </h1>
+				</div>
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Nome:</strong> </br> Elisa Correia</p>
+					<p><strong style='color:pink'>Idade:</strong> </br> 35 Anos</p>
+					<p><strong style='color:pink'>Descrição:</strong> </br>Olá a todos!!!<br> O meu nome é Elisa, mas tem quem me apelide carinhosamente de <code>Piriluz</code> ;) <br> Considero-me curiosa e por essa razão criei este 'projecto' com o objectivo de praticar os ensinamentos
+						que adquiri ao frequentar o curso da SmartNinja, nesta forma de curriculo digital personalizado. <br> 
+						Tem cerca de um ano que uma pessoa muito <code>ESPECIAL</code> me apresentou esta área, me deixando com o 'bichinho' da curiosidade aguçado.<br>
+						E é a ti que quero agradecer <code>(NB)</code> não apenas por seres muito <code>ESPECIAL</code> e por seres o autor deste meu interesse pela programação, mas também por me ajudares sempre que preciso de apoio extra neste meu novo desafio! <br>
+						Quero crescer juntamente com a vontade de saber mais e poder vir a desenvolver profissionalmente uma carreira na área IT.</br>
+						Já lá vai cerca de um ano que conheci esse Ser <code>ESPECIAL</code> que mudou a minha vida!</br> 
+						E desde ai, tenho procurado explorar a área, como tal...</br> Participei na workshop WE/CODE woman edition onde aprendi bases de HTML, CSS, JavaScript.</br> A workshop foi organizada pela Ironhack e Startup Lisboa.</br> 
+						Adorei a experiência e decidi apostar na formação!</br> Através de pequisas na internet descobri que a escola SmartNinja ia inciar uma formação na área e decidi frequentar o curso de Web Developement 1.<br> 
+						O meu feedback é positivo.</br> 
+						Toda a minha experiência profissional sempre esteve ligada à área administrativa no sector da saúde...<br>
+						Mas o meu lado curioso e o gosto por desafios e aventura fez com que me decidi-se focar e adquirir mais conhecimentos na área da programação e poder crescer dentro da área de desenvolvimento (IT). </p>
+				</div>
+			</div>
+			
+			<div class="row experiencia">
+				<div class="col-md-12">
+					<h1 style='font-family:Courier; color:purple'> Experiência </h1>
+				</div>
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Empresa:</strong> Johnson & Johnson </p>
+					<p><strong style='color:pink'>Data:</strong>  Agosto/2019 até Dezembro/2019</p>
+					<p><strong style='color:pink'>Cargo:</strong>  Administrativa de Campanhas Promocionais - Canal Farmácia </p>
+					<p><strong style='color:pink'>Função:</strong> Inserção de dados dos talões de venda em paralelo com um painel de compras.
+					
+				</div>
+				
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Empresa:</strong>  Altamira </p>
+					<p><strong style='color:pink'>Data:</strong>  Maio/2018 a Julho/2019</p>
+					<p><strong style='color:pink'>Cargo:</strong> Administrativa Backoffice - Condomínios </p>
+					<p><strong style='color:pink'>Função:</strong> Gestão da caixa de email da equipa e pessoal, atendimento telefónico, gestão da conta corrente dos condominios.
+					
+				</div>
+				
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Empresa:</strong> Hospital da Luz (Grupo Luz Saúde) </p>
+					<p><strong style='color:pink'>Data:</strong>  Dezembro/2017 a Março/2018</p>
+					<p><strong style='color:pink'>Cargo:</strong> Administrativa Backoffice - Acidentes de trabalho </p>
+					<p><strong style='color:pink'>Função:</strong> Introdução de dados, contacto com clientes, apoio/suporte administrativo
+					
+				</div>
+			</div>
+			
+			<div class="row habilitacoes">
+				<div class="col-md-12">
+					<h1 style='font-family:Courier; color:purple'> Habilitações: </h1>
+				</div>
+							
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Escola:</strong> SmartNinja </p>
+					<p><strong style='color:pink'>Curso:</strong> Web Developement 1 </p>
+					<p><strong style='color:pink'>Ano de Conclusão:</strong> 2019 </p>
+				</div>
+				
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Escola:</strong> Centro de Novas Oportunidades</p>
+					<p><strong style='color:pink'>Curso:</strong>  Técnico de Acção Educativa </p>
+					<p><strong style='color:pink'>Ano de Conclusão:</strong>  2010 </p>
+				</div>
+				
+				<div class="col-md-12">
+					<hr>
+					<p><strong style='color:pink'>Escola:</strong> Escola Secundária Stuart de Carvalhais</p>
+					<p><strong style='color:pink'>Curso:</strong> Empregado Administrativa </p>
+					<p><strong style='color:pink'>Ano de Conclusão:</strong>  2002 </p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="container-fluid">
+		<div class="row conclusão">
+				<div class="col-md-12">
+					<h1 style='font-family:Courier; color:purple'> Conclusão: </h1>
+					<p><strong></strong> </br>Criei este curriculo digital personalizado simples para poder praticar um pouco do que aprendi.</br>
+					Partilhar um pouco da minha experiência profissional e de formação (embora noutras áreas)...</br>
+					Demonstrando desta forma um pouco dos conhecimentos que adquirir ao frequentar o curso da SmartNinja.</br>
+					Pretendo com esta pequena demonstração mostrar as minhas capacidade e com isso abrir portas profissionais para projectos reais e crescer ainda mais neste novo mundo que escolhi abraçar, cheio de desafios e crescimento!!!  
+				</div>
+		
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12 footer text-center">
+					<strong style='color:purple'>Feito por:</strong> Elisa Correia * 2019 / 2020
+				</div>
+			</div>
+		</div>
+	</body> 
+</html>
